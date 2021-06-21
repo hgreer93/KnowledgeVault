@@ -2,54 +2,95 @@
 
 https://acronymgenerator.com/
 
-https://zalo.github.io/blog/inverse-kinematics/
-https://animationprogramming.com/
-https://www.mathworks.com/matlabcentral/fileexchange/61771-compression-of-motion-capture-data-using-quadratic-bezier-curve
-https://nfrechette.github.io/2016/12/07/anim_compression_key_reduction/
+## Animation Programming
+[Inverse Kinematics](https://zalo.github.io/blog/inverse-kinematics/)
+
+[Animation Programming](https://animationprogramming.com/)
+
+[Mocap Compression using Bezier Curve](https://www.mathworks.com/matlabcentral/fileexchange/61771-compression-of-motion-capture-data-using-quadratic-bezier-curve)
+
+[Key Reduction](https://nfrechette.github.io/2016/12/07/anim_compression_key_reduction/)
+
+## Graphics Programming
+
+[Shader Playground](http://shader-playground.timjones.io/)
+
+[Dynamic Draw Call Batching](https://www.gamedev.net/forums/topic/688462-is-dynamic-draw-call-batching-still-relevant/)
+
+[Vertex/Index/Constant in Upload Heaps](https://www.gamedev.net/forums/topic/680559-buffers-vertex-index-constant-in-upload-default-heaps/)
+
+[DXR Path Tracer](https://maknee.github.io/blog/2018/RTX-DXR-Path-Tracer-HLSL/)
+
+[D3D12 Bindless](http://alextardif.com/Bindless.html)
+
+[D3D12 Resource Alignment Secrets](https://asawicki.info/news_1726_secrets_of_direct3d_12_resource_alignment)
+
+[Mesh Shaders](https://devblogs.microsoft.com/directx/coming-to-directx-12-mesh-shaders-and-amplification-shaders-reinventing-the-geometry-pipeline/)
+
+[HLSL Closures](https://code4k.blogspot.com/2011/11/advanced-hlsl-using-closures-and.html)
+
+[Triangle Visibility Buffer](https://diaryofagraphicsprogrammer.blogspot.com/2018/03/triangle-visibility-buffer.html)
+
+[AMD Primitive Shader](https://www.resetera.com/threads/primitive-shader-amds-patent-deep-dive.186831/)
+
+[HLSL Class Linking](https://www.gamedev.net/forums/topic/695003-class-linkage-system-with-dx12/)
+
+[HLSL Dynamic Linking](https://www.gamedev.net/forums/topic/623020-hlsl-dynamic-linking/)
+
+[GDC Advanced Graphics Techniques](https://www.gdcvault.com/play/1023511/Advanced-Graphics-Techniques-Tutorial-Day#:~:text=Object%20space%20lighting%20is%20a%20technique%20inspired%20by,rates%2C%20and%20many%20more%20effects%2C%20all%20in%20real-time)
+
+[Terrain Rendering using VTF](https://galfar.vevb.net/wp/2013/android-terrain-rendering-vertex-texture-fetch-part-1/)
+
+[D3D12 Limit Textures using LRU](https://github.com/xenia-project/xenia/commit/d0c872527015ef90b4efd6e7d7996479de590a47)
+
+[Mesh Colors](http://www.cemyuksel.com/research/meshcolors/)
+
+[D3D12 Copies to Same Buffer](https://asawicki.info/news_1722_secrets_of_direct3d_12_copies_to_the_same_buffer)
+
+[Texture Object Space Lighting](https://kosmonautblog.wordpress.com/2016/12/19/texture-object-space-lighting/)
+
+## Collision and Physics
+
+[Digital Rune Collision Detection](https://digitalrune.github.io/DigitalRune-Documentation/html/629ec6f3-8533-4ef9-94d0-220ef375387c.htm#:~:text=The%20collision%20detection%20in%20DigitalRune%20Geometry%20can%20compute,stores%20additional%20information%20for%20the%20collision%20detection%20system)
+
+[Sphere Triangle Intersection](https://realtimecollisiondetection.net/blog/?p=103)
+
+
+
+
+
 https://gamedev.stackexchange.com/questions/7718/event-driven-communication-in-a-game-engine-yes-or-no
 https://stackoverflow.com/questions/4574016/game-objects-talking-to-each-other/4580241#4580241
-https://digitalrune.github.io/DigitalRune-Documentation/html/629ec6f3-8533-4ef9-94d0-220ef375387c.htm#:~:text=The%20collision%20detection%20in%20DigitalRune%20Geometry%20can%20compute,stores%20additional%20information%20for%20the%20collision%20detection%20system.
-https://realtimecollisiondetection.net/blog/?p=103
-https://www.gamedev.net/forums/topic/680559-buffers-vertex-index-constant-in-upload-default-heaps/
-https://www.gamedev.net/forums/topic/688462-is-dynamic-draw-call-batching-still-relevant/
+
+
 https://www.gamedev.net/articles/programming/general-and-gameplay-programming/game-engine-containers-handle_map-r4495/
 
-https://maknee.github.io/blog/2018/RTX-DXR-Path-Tracer-HLSL/
-https://www.gamedev.net/forums/topic/688933-why-are-we-still-using-indexvertexinstance-buffers/
-http://alextardif.com/Bindless.html
-https://asawicki.info/news_1726_secrets_of_direct3d_12_resource_alignment
-https://devblogs.microsoft.com/directx/coming-to-directx-12-mesh-shaders-and-amplification-shaders-reinventing-the-geometry-pipeline/
-https://github.com/msiglreith/rostkatze
-https://github.com/Microsoft/DirectX-Graphics-Samples/blob/master/MiniEngine/Core/GpuBuffer.cpp
 
-http://shader-playground.timjones.io/
 
-https://docs.microsoft.com/en-us/samples/microsoft/directx-graphics-samples/d3d12-execute-indirect-sample-uwp/
-https://diaryofagraphicsprogrammer.blogspot.com/2018/03/triangle-visibility-buffer.html
-https://code4k.blogspot.com/2011/11/advanced-hlsl-using-closures-and.html
 
-https://stackoverflow.com/questions/34467358/glsl-function-pointer-or-equivalent
-https://www.gamedev.net/forums/topic/695003-class-linkage-system-with-dx12/
-https://www.gamedev.net/forums/topic/623020-hlsl-dynamic-linking/
-https://www.gdcvault.com/play/1023511/Advanced-Graphics-Techniques-Tutorial-Day#:~:text=Object%20space%20lighting%20is%20a%20technique%20inspired%20by,rates%2C%20and%20many%20more%20effects%2C%20all%20in%20real-time.
-https://www.resetera.com/threads/primitive-shader-amds-patent-deep-dive.186831/
-https://forum.unity.com/threads/move-vertices-geometry-shader-vs-compute-shader-aka-metal-does-not-have-geom-shader.519551/
-https://www.reddit.com/r/unrealengine/comments/gjnpa6/how_does_nanite_work_in_ue5/
 
-Virtual Geometry Textures
+
+
+
+## Virtual Geometry Textures
 http://publications.lib.chalmers.se/records/fulltext/220583/220583.pdf
-http://opengi.sourceforge.net/about.html
-https://galfar.vevb.net/wp/2013/android-terrain-rendering-vertex-texture-fetch-part-1/
-https://github.com/xenia-project/xenia/commit/d0c872527015ef90b4efd6e7d7996479de590a47
+
+[OpenGI (Open Geometry Image)](http://opengi.sourceforge.net/about.html)
+
+
 http://ogldev.atspace.co.uk/www/tutorial31/tutorial31.html
-https://github.com/lohedges/aabbcc
 http://jan.ucc.nau.edu/lrm22/pixels2bytes/calculator.htm
 
-https://github.com/jpcy/xatlas
-http://www.cemyuksel.com/research/meshcolors/
+## Math
 
-https://asawicki.info/news_1722_secrets_of_direct3d_12_copies_to_the_same_buffer
-https://kosmonautblog.wordpress.com/2016/12/19/texture-object-space-lighting/
+[Dynamic AABB Tree](https://github.com/lohedges/aabbcc)
+
+
+
+https://github.com/jpcy/xatlas
+
+
+
 https://hbfs.wordpress.com/2013/02/12/float16/
 https://stackoverflow.com/questions/36998123/how-to-quantize-floating-point-to-unsigned-byte-in-glsl
 http://aras-p.info/texts/CompactNormalStorage.html
