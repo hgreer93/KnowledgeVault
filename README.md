@@ -439,3 +439,5 @@ Book - Real Time Rendering pg 593
 [Engineer at Unity, Previously Insomiac, Blog](https://deplinenoise.wordpress.com/)
 
 [Insomniac Memtrace](https://github.com/InsomniacGames/ig-memtrace)
+
+[Integrating MemTrace into UE4](https://wessamfathi.com/2017/11/04/integrating-insomniac-games-memtrace-tool-into-unreal-engine-4-part-1/)
