@@ -436,3 +436,6 @@ Book - Real Time Rendering pg 593
 
 [Fibers Aren't Useful Anymore](https://devblogs.microsoft.com/oldnewthing/20191011-00/?p=102989)
 
+[Engineer at Unity, Previously Insomiac, Blog](https://deplinenoise.wordpress.com/)
+
+[Insomniac Memtrace](https://github.com/InsomniacGames/ig-memtrace)
