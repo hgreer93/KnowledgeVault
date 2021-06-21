@@ -13,6 +13,20 @@ https://acronymgenerator.com/
 
 ## Graphics Programming
 
+[Handling Device Lost](https://docs.microsoft.com/en-us/windows/uwp/gaming/handling-device-lost-scenarios)
+
+[A Failed Adventure Avoiding TAA](http://alextardif.com/Antialiasing.html)
+
+[Tile Based Deferred Rendering](https://docs.imgtec.com/Architecture_Guides/PowerVR_Architecture/topics/powervr_architecture_tile_based_deferred_rendering__tbdr.html)
+
+[Difference Between UMA and NUMA](https://techdifferences.com/difference-between-uma-and-numa.html)
+
+[GPU Fault Detection](https://devblogs.microsoft.com/directx/dred/)
+
+[GPU Architecture Detection](https://www.programmersought.com/article/283396314/)
+
+[Adding Support for GSync](https://docs.microsoft.com/en-us/windows/win32/direct3ddxgi/variable-refresh-rate-displays)
+
 [Shader Playground](http://shader-playground.timjones.io/)
 
 [Dynamic Draw Call Batching](https://www.gamedev.net/forums/topic/688462-is-dynamic-draw-call-batching-still-relevant/)
@@ -45,7 +59,19 @@ https://acronymgenerator.com/
 
 [Mesh Colors](http://www.cemyuksel.com/research/meshcolors/)
 
+[D3D12 Spec](https://github.com/Microsoft/DirectX-Specs/blob/master/d3d/CPUEfficiency.md)
+
+[D3D12 Memory Strategies](https://docs.microsoft.com/en-us/windows/win32/direct3d12/memory-management-strategies)
+
 [D3D12 Copies to Same Buffer](https://asawicki.info/news_1722_secrets_of_direct3d_12_copies_to_the_same_buffer)
+
+[D3D12 Placed Resources](https://www.gamedev.net/forums/topic/672860-d3d12-placed-resources/)
+
+[D3D12 Multithreaded Architecture](https://nbertoa.wordpress.com/2016/07/13/directx12-multithread-architecture-a-first-approach/)
+
+[D3D12 Command Queue Fence Synchronization](https://www.gamedev.net/forums/topic/673728-d3d12-command-queue-fence-synchronization/)
+
+[D3D12 User Mode Heap Synchronization](https://github.com/MicrosoftDocs/win32/blob/docs/desktop-src/direct3d12/user-mode-heap-synchronization.md)
 
 [Texture Object Space Lighting](https://kosmonautblog.wordpress.com/2016/12/19/texture-object-space-lighting/)
 
@@ -78,6 +104,14 @@ https://acronymgenerator.com/
 [Tile Based Rasterization](https://www.realworldtech.com/tile-based-rasterization-nvidia-gpus/)
 
 [Horizon Zero Dawn Clouds](https://www.gamedev.net/forums/topic/680832-horizonzero-dawn-cloud-system/?page=6)
+
+[Framegraph](http://www.ademolathompson.com/blackosiris/2018/2/14/frame-graph)
+
+[Dynamic Diffuse Global Illumination with Ray-Traced Irradiance Fields](https://github.com/xuechao-chen/DDGI)
+
+[Signed Distance Field GI (Chinese)](https://zhuanlan.zhihu.com/p/262332553)
+
+[Volumetric Rendering in UE4](https://github.com/tommybazar/TBRaymarchProject)
 
 ## Collision and Physics
 
@@ -159,6 +193,8 @@ http://publications.lib.chalmers.se/records/fulltext/220583/220583.pdf
 [Fast, vectorised functions for conversion of colours between different colour spaces](https://github.com/thomasp85/farver/)
 
 [RGB Color Space Conversions](https://www.ryanjuckett.com/rgb-color-space-conversion/)
+
+[Math Behind Shader Noise](http://ibreakdownshaders.blogspot.com/2015/03/noise-loudening.html)
 
 ### Curves
 
@@ -252,6 +288,8 @@ Book - Real Time Rendering pg 593
 
 [Texture Array with Mips](https://www.gamedev.net/forums/topic/681709-texture-array-with-mipmaps/)
 
+[Texture Compression Kernels](https://github.com/elasota/ConvectionKernels)
+
 ## General Programming
 
 [Game Engine Event Driven Communication](https://gamedev.stackexchange.com/questions/7718/event-driven-communication-in-a-game-engine-yes-or-no)
@@ -308,6 +346,52 @@ Book - Real Time Rendering pg 593
 
 [Game Engine Architecture Overview](https://homepages.fhv.at/thjo/lecturenotes/sysarch/game-engine-architecture.html)
 
+[Multiprocessor Game Loops (Uncharted 2)](https://www.slideshare.net/naughty_dog/multiprocessor-game-loops-lessons-from-uncharted-2-among-thieves)
+
+[LRU Cache Design](https://stackoverflow.com/questions/2504178/lru-cache-design/)
+
+[Non-Recursive Fast Compact Stable Sort](https://ptspts.blogspot.com/2013/08/non-recursive-fast-compact-stable-sort.html)
+
+[AVX/SIMD Matrix Multiplication](https://codereview.stackexchange.com/questions/177616/avx-simd-in-matrix-multiplication)
+
+[Basic StringView](https://codereview.stackexchange.com/questions/242428/own-implementation-of-c-stdstring-view)
+
+[StringView Lite](https://github.com/martinmoene/string-view-lite)
+
+[Another String View](https://github.com/lava/string_view)
+
+[Enum Reflection](https://taylorconor.com/blog/enum-reflection/)
+
+[Move Forward](https://www.foonathan.net/2020/09/move-forward/)
+
+[Move Operation 2](http://bajamircea.github.io/coding/cpp/2016/04/07/move-forward.html)
+
+[TypeTrait for Moveable Types](https://stackoverflow.com/questions/7054952/type-trait-for-moveable-types)
+
+[Template to Check For Class Member Function](https://stackoverflow.com/questions/257288/templated-check-for-the-existence-of-a-class-member-function)
+
+[When to use std::move](https://stackoverflow.com/questions/3413470/what-is-stdmove-and-when-should-it-be-used)
+
+[How to Check If Operator Exists](https://stackoverflow.com/questions/6534041/how-to-check-whether-operator-exists)
+
+[Trivially Moveable Trait](https://stackoverflow.com/questions/45747932/c-type-trait-to-say-trivially-movable-examples-of)
+
+[MSDN - Explicitly Deleted and Defaulted Functions](https://docs.microsoft.com/en-us/cpp/cpp/explicitly-defaulted-and-deleted-functions?view=msvc-160)
+
+[Check For MemberFunction (2)](https://stackoverflow.com/questions/41936763/type-traits-to-check-if-class-has-member-function)
+
+[Check for Operator 2](https://stackoverflow.com/questions/2122319/c-type-traits-to-check-if-class-has-operator-member)
+
+[Linear vs Binary Search](https://schani.wordpress.com/2010/04/30/linear-vs-binary-search/)
+
+[Memory Allocator Design](https://jfdube.wordpress.com/2011/10/22/memory-management-part-3-memory-allocators-design/)
+
+[Tiny Parser in C++](https://algoland.wordpress.com/2013/12/29/a-tiny-parser-in-c/)
+
+[BNF Like EDSL](https://www.codeproject.com/Articles/1214286/Formula-Compiler-using-Cplusplus-BNF-like-EDSL)
+
+[EBNF Parser](https://github.com/katahiromz/EbnfParser)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
@@ -324,16 +408,31 @@ Book - Real Time Rendering pg 593
 
 [Network Entity Interpolation](https://www.gabrielgambetta.com/entity-interpolation.html)
 
+[Alexa - Various Graph Based Code](https://iq.opengenus.org/author/alexa/)
 
+[NVme Speeds](https://www.reddit.com/r/buildapc/comments/imgwct/m2_nvme_speed/)
 
+[Awesome Tools for Binary Parsing](https://github.com/dloss/binary-parsing)
 
+[Azure CDN](https://practical365.com/blog/how-to-use-azure-cdn-content-delivery-network/)
 
+[CDN Caching Policy Simulator](https://github.com/sunnyszy/lrb)
 
+[Blizzard CDN Downloader](https://github.com/d07RiV/blizzget)
 
+[Additional std-like Containers](https://launchpad.net/libmct)
 
+[Game Dev Presentation Collection](https://forum.beyond3d.com/threads/game-development-presentations-a-useful-reference.46956/page-31)
 
+[Why Raytracing Won't Simplify](http://c0de517e.blogspot.com/2020/12/why-raytracing-wont-simplify-aaa-real.html)
 
+[Viability of AAA Development](https://forum.beyond3d.com/threads/viability-of-aaa-game-development-spawn.61846/)
 
+[Fast Weather Simulation for Urban Models](http://www.ignaciogarciadorado.com/p/2017_TOG/2017_TOG.html)
 
+[Graphics, Math, And More](https://www.iquilezles.org/index.html)
 
+[Ice Flow Simulation](http://dwtkns.com/posts/flowing-ice.html)
+
+[Fibers Aren't Useful Anymore](https://devblogs.microsoft.com/oldnewthing/20191011-00/?p=102989)
 
