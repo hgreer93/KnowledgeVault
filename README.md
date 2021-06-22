@@ -392,6 +392,8 @@ Book - Real Time Rendering pg 593
 
 [EBNF Parser](https://github.com/katahiromz/EbnfParser)
 
+[Checking for Power of Two](https://stackoverflow.com/questions/10585450/how-do-i-check-if-a-template-parameter-is-a-power-of-two)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
