@@ -398,6 +398,8 @@ Book - Real Time Rendering pg 593
 
 [Check for Class Member Variable](https://stackoverflow.com/questions/1005476/how-to-detect-whether-there-is-a-specific-member-variable-in-class)
 
+[Creating Tools in UE4](https://lxjk.github.io/2019/10/01/How-to-Make-Tools-in-U-E.html)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
