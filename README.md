@@ -396,6 +396,8 @@ Book - Real Time Rendering pg 593
 
 [Check for Class Inheritance (Existence of VTable)](https://stackoverflow.com/a/52208389)
 
+[Check for Class Member Variable](https://stackoverflow.com/questions/1005476/how-to-detect-whether-there-is-a-specific-member-variable-in-class)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
