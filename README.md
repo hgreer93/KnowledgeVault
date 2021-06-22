@@ -394,6 +394,8 @@ Book - Real Time Rendering pg 593
 
 [Checking for Power of Two](https://stackoverflow.com/questions/10585450/how-do-i-check-if-a-template-parameter-is-a-power-of-two)
 
+[Check for Class Inheritance (Existence of VTable)](https://stackoverflow.com/a/52208389)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
