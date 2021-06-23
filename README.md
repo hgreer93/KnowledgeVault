@@ -400,6 +400,8 @@ Book - Real Time Rendering pg 593
 
 [Creating Tools in UE4](https://lxjk.github.io/2019/10/01/How-to-Make-Tools-in-U-E.html)
 
+[PCG Random Number Generation](https://www.pcg-random.org/)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
