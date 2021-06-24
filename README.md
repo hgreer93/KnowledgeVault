@@ -451,3 +451,5 @@ Book - Real Time Rendering pg 593
 [Insomniac Memtrace](https://github.com/InsomniacGames/ig-memtrace)
 
 [Integrating MemTrace into UE4](https://wessamfathi.com/2017/11/04/integrating-insomniac-games-memtrace-tool-into-unreal-engine-4-part-1/)
+
+[How Nanite Renders](http://www.elopezr.com/a-macro-view-of-nanite/)
