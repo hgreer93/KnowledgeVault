@@ -402,6 +402,8 @@ Book - Real Time Rendering pg 593
 
 [PCG Random Number Generation](https://www.pcg-random.org/)
 
+[Making a spin lock](https://rigtorp.se/spinlock/)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
