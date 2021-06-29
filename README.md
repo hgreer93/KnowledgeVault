@@ -457,3 +457,11 @@ Book - Real Time Rendering pg 593
 [How Nanite Renders](http://www.elopezr.com/a-macro-view-of-nanite/)
 
 [UE4 Multithreading](https://jdelezenne.github.io/Codex/UE4/Multithreading.html)
+
+[Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
+
+[Win32 Anti-Debugging](https://www.apriorit.com/dev-blog/367-anti-reverse-engineering-protection-techniques-to-use-before-releasing-software)
+
+[Win32 Anti-intrusion](https://github.com/HoShiMin/Avanguard)
+
+[Binary Encryption](https://github.com/kutoga/libtbsbincr)
