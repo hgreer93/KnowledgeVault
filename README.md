@@ -458,6 +458,8 @@ Book - Real Time Rendering pg 593
 
 [UE4 Multithreading](https://jdelezenne.github.io/Codex/UE4/Multithreading.html)
 
+## Anti-Reverse Engineering 
+
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
 
 [Win32 Anti-Debugging](https://www.apriorit.com/dev-blog/367-anti-reverse-engineering-protection-techniques-to-use-before-releasing-software)
@@ -465,3 +467,5 @@ Book - Real Time Rendering pg 593
 [Win32 Anti-intrusion](https://github.com/HoShiMin/Avanguard)
 
 [Binary Encryption](https://github.com/kutoga/libtbsbincr)
+
+[Import Functions the Hard Way](https://github.com/JustasMasiulis/lazy_importer)
