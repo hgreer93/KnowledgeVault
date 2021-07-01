@@ -458,6 +458,8 @@ Book - Real Time Rendering pg 593
 
 [UE4 Multithreading](https://jdelezenne.github.io/Codex/UE4/Multithreading.html)
 
+[Memcpy vs Memmove](https://programmersought.com/article/92688946522/)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
