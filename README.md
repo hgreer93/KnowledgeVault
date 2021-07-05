@@ -404,6 +404,8 @@ Book - Real Time Rendering pg 593
 
 [Making a spin lock](https://rigtorp.se/spinlock/)
 
+[Use Cases for SIMD](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
