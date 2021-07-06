@@ -406,6 +406,10 @@ Book - Real Time Rendering pg 593
 
 [Use Cases for SIMD](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/)
 
+[Making a Symbol Server](https://randomascii.wordpress.com/2020/03/14/creating-a-public-symbol-server-easily/)
+
+[Symbol Server Setup](http://brockreeve.com/post/2009/10/23/Symbol-Server-Setup.aspx)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
