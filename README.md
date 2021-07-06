@@ -466,6 +466,8 @@ Book - Real Time Rendering pg 593
 
 [Memcpy vs Memmove](https://programmersought.com/article/92688946522/)
 
+[Pros and Cons of Inlining](https://awesomekling.github.io/Smarter-C++-inlining-with-attribute-flatten/)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
