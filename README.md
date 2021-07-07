@@ -488,6 +488,12 @@ Book - Real Time Rendering pg 593
 
 [Modern C++ Bitmask Type](https://walbourn.github.io/modern-c++-bitmask-types/)
 
+[Software Raster](https://www.gamedev.net/forums/topic/642723-is-software-rasterisation-processor-heavy/)
+
+[Github Software Rasterizer](https://github.com/Guarneri1743/CPU-Rasterizer)
+
+
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
