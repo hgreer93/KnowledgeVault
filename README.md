@@ -474,6 +474,8 @@ Book - Real Time Rendering pg 593
 
 [C++ Member Constructor/Destructor Order](https://stackoverflow.com/questions/2254263/order-of-member-constructor-and-destructor-calls)
 
+[Windows x64 Assembly](https://simon-whitehead.github.io/2018/02/adventures-in-64-bit-windows-assembly-part-1/)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
