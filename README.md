@@ -472,6 +472,8 @@ Book - Real Time Rendering pg 593
 
 [mm_pause Benefits](https://stackoverflow.com/questions/58424276/why-can-mm-pause-significantly-improve-performance)
 
+[C++ Member Constructor/Destructor Order](https://stackoverflow.com/questions/2254263/order-of-member-constructor-and-destructor-calls)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
