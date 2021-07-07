@@ -492,7 +492,7 @@ Book - Real Time Rendering pg 593
 
 [Github Software Rasterizer](https://github.com/Guarneri1743/CPU-Rasterizer)
 
-
+[Windows 10 Thread Count](https://answers.microsoft.com/en-us/windows/forum/windows_10-performance/windows-10-limits-max-number-32-of-threads-with/e3a47fc2-9547-4fea-b830-042a552f56a9)
 
 ## Anti-Reverse Engineering 
 
