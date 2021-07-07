@@ -486,6 +486,8 @@ Book - Real Time Rendering pg 593
 
 [C++ 11 Bit Manipulations](https://www.learncpp.com/cpp-tutorial/bit-manipulation-with-bitwise-operators-and-bit-masks/)
 
+[Modern C++ Bitmask Type](https://walbourn.github.io/modern-c++-bitmask-types/)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
