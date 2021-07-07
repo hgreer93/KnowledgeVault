@@ -468,6 +468,8 @@ Book - Real Time Rendering pg 593
 
 [Pros and Cons of Inlining](https://awesomekling.github.io/Smarter-C++-inlining-with-attribute-flatten/)
 
+[Fibers, Oh My](https://graphitemaster.github.io/fibers/)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
