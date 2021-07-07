@@ -470,6 +470,8 @@ Book - Real Time Rendering pg 593
 
 [Fibers, Oh My](https://graphitemaster.github.io/fibers/)
 
+[mm_pause Benefits](https://stackoverflow.com/questions/58424276/why-can-mm-pause-significantly-improve-performance)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
