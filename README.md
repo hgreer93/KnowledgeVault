@@ -478,6 +478,8 @@ Book - Real Time Rendering pg 593
 
 [Coroutine Implementations (Link to Gist)](https://gist.github.com/Varriount/8962092)
 
+[Bitwise AND](https://stackoverflow.com/questions/4649231/if-mask-value-or-if-mask-value-value)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
