@@ -480,6 +480,8 @@ Book - Real Time Rendering pg 593
 
 [Bitwise AND](https://stackoverflow.com/questions/4649231/if-mask-value-or-if-mask-value-value)
 
+[Bitwise Inverse](https://stackoverflow.com/questions/6508585/how-to-use-inverse-in-c)
+
 [Bitwise Operators](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
 
 ## Anti-Reverse Engineering 
