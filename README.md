@@ -476,6 +476,8 @@ Book - Real Time Rendering pg 593
 
 [Windows x64 Assembly](https://simon-whitehead.github.io/2018/02/adventures-in-64-bit-windows-assembly-part-1/)
 
+[Coroutine Implementations (Link to Gist)](https://gist.github.com/Varriount/8962092)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
