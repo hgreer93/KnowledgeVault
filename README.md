@@ -484,6 +484,8 @@ Book - Real Time Rendering pg 593
 
 [Bitwise Operators](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
 
+[C++ 11 Bit Manipulations](https://www.learncpp.com/cpp-tutorial/bit-manipulation-with-bitwise-operators-and-bit-masks/)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
