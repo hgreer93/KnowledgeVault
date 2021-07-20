@@ -412,6 +412,8 @@ Book - Real Time Rendering pg 593
 
 [Symbol Server Setup](http://brockreeve.com/post/2009/10/23/Symbol-Server-Setup.aspx)
 
+[Fast strlen](https://www.strchr.com/optimized_strlen_function?allcomments=1)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
