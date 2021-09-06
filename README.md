@@ -502,6 +502,8 @@ Book - Real Time Rendering pg 593
 
 [MFC Docking System (Almost)](https://github.com/baradzenka/MultiPaneCtrl)
 
+[Structure of Array template](https://www.fluentcpp.com/2018/12/21/an-soa-vector-with-an-stl-container-interface-in-cpp/)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
