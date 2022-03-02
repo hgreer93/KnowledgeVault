@@ -23,6 +23,8 @@
 
 [Difference Between UMA and NUMA](https://techdifferences.com/difference-between-uma-and-numa.html)
 
+[Walking Through DX12 Heap Types](https://zhangdoa.com/posts/walking-through-the-heap-properties-in-directx-12)
+
 [D3D12 Heap Types](https://asawicki.info/news_1755_untangling_direct3d_12_memory_heap_types_and_pools)
 
 [GPU Fault Detection](https://devblogs.microsoft.com/directx/dred/)
