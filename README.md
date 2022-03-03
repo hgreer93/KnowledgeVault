@@ -521,3 +521,7 @@ Book - Real Time Rendering pg 593
 [Binary Encryption](https://github.com/kutoga/libtbsbincr)
 
 [Import Functions the Hard Way](https://github.com/JustasMasiulis/lazy_importer)
+
+## Hardware
+
+[CPU Core Latency](https://www.anandtech.com/show/16214/amd-zen-3-ryzen-deep-dive-review-5950x-5900x-5800x-and-5700x-tested/5)
