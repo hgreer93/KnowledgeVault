@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[NVAPI CPU Visible Upload Heap](https://developer.nvidia.com/blog/optimizing-dx12-resource-uploads-to-the-gpu-using-cpu-visible-vram/)
+
 [Handling Device Lost](https://docs.microsoft.com/en-us/windows/uwp/gaming/handling-device-lost-scenarios)
 
 [A Failed Adventure Avoiding TAA](http://alextardif.com/Antialiasing.html)
