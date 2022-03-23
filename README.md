@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[NVidia Copy Async Tips](https://developer.nvidia.com/blog/advanced-api-performance-async-copy/?msclkid=1be89095aadf11ecbdbb30d126ac6cc3)
+
 [NVAPI CPU Visible Upload Heap](https://developer.nvidia.com/blog/optimizing-dx12-resource-uploads-to-the-gpu-using-cpu-visible-vram/)
 
 [Handling Device Lost](https://docs.microsoft.com/en-us/windows/uwp/gaming/handling-device-lost-scenarios)
