@@ -444,6 +444,8 @@ Book - Real Time Rendering pg 593
 
 [NVme Speeds](https://www.reddit.com/r/buildapc/comments/imgwct/m2_nvme_speed/)
 
+[Programming for SSDs](https://codecapsule.com/2014/02/12/coding-for-ssds-part-5-access-patterns-and-system-optimizations/)
+
 [Awesome Tools for Binary Parsing](https://github.com/dloss/binary-parsing)
 
 [Azure CDN](https://practical365.com/blog/how-to-use-azure-cdn-content-delivery-network/)
