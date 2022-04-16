@@ -210,6 +210,8 @@ http://publications.lib.chalmers.se/records/fulltext/220583/220583.pdf
 
 [Math Behind Shader Noise](http://ibreakdownshaders.blogspot.com/2015/03/noise-loudening.html)
 
+[Dont convert U8 to Linear](https://blog.demofox.org/2018/03/10/dont-convert-srgb-u8-to-linear-u8/)
+
 ### Curves
 
 [Catmull Rom for Camera Animation](https://www.codeproject.com/Articles/30838/Overhauser-Catmull-Rom-Splines-for-Camera-Animatio)
