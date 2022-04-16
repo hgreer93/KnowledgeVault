@@ -206,6 +206,8 @@ http://publications.lib.chalmers.se/records/fulltext/220583/220583.pdf
 
 [RGB Color Space Conversions](https://www.ryanjuckett.com/rgb-color-space-conversion/)
 
+[Photoshop Blend Modes In HLSL](https://www.ryanjuckett.com/photoshop-blend-modes-in-hlsl/)
+
 [Math Behind Shader Noise](http://ibreakdownshaders.blogspot.com/2015/03/noise-loudening.html)
 
 ### Curves
