@@ -15,6 +15,10 @@
 
 ## Graphics Programming
 
+[pdep_u32](https://stackoverflow.com/questions/63835321/pdep-u32-in-glsl-hlsl-spir-v)
+
+[Dx12 Texture Layout](https://docs.microsoft.com/en-us/windows/win32/api/d3d12/ne-d3d12-d3d12_texture_layout)
+
 [NVidia Copy Async Tips](https://developer.nvidia.com/blog/advanced-api-performance-async-copy/?msclkid=1be89095aadf11ecbdbb30d126ac6cc3)
 
 [NVAPI CPU Visible Upload Heap](https://developer.nvidia.com/blog/optimizing-dx12-resource-uploads-to-the-gpu-using-cpu-visible-vram/)
