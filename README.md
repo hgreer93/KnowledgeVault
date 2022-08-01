@@ -144,6 +144,10 @@ http://publications.lib.chalmers.se/records/fulltext/220583/220583.pdf
 
 ## Math
 
+[Row/Column Major (How to tell)](https://gamedev.stackexchange.com/questions/18901/can-someone-explain-the-reasons-for-the-implications-of-colum-vs-row-major-in)
+
+[Confusion of Matrix](https://stackoverflow.com/questions/17717600/confusion-between-c-and-opengl-matrix-order-row-major-vs-column-major)
+
 [Dynamic AABB Tree](https://github.com/lohedges/aabbcc)
 
 [Float16](https://hbfs.wordpress.com/2013/02/12/float16/)
