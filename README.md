@@ -530,6 +530,8 @@ Book - Real Time Rendering pg 593
 
 [Message Spam When Resizing](https://stackoverflow.com/questions/18554407/window-message-wm-sizing-sending-incessantly-when-window-resizing)
 
+[WM_SIZE Wrong Size](https://stackoverflow.com/questions/71539308/win32-wm-size-message-gives-wrong-dimensions)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
