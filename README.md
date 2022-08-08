@@ -528,6 +528,8 @@ Book - Real Time Rendering pg 593
 
 [Structure of Array template](https://www.fluentcpp.com/2018/12/21/an-soa-vector-with-an-stl-container-interface-in-cpp/)
 
+[Message Spam When Resizing](https://stackoverflow.com/questions/18554407/window-message-wm-sizing-sending-incessantly-when-window-resizing)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
