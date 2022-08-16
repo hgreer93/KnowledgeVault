@@ -15,6 +15,10 @@
 
 ## Graphics Programming
 
+[White paper on PBR](https://www.programmerall.com/article/7144653012/)
+
+[Blender Material (Sheen)](https://www.blenderbasecamp.com/what-does-sheen-mean-when-working-with-blender-materials/)
+
 [pdep_u32](https://stackoverflow.com/questions/63835321/pdep-u32-in-glsl-hlsl-spir-v)
 
 [AMD pdep_u32](https://community.amd.com/t5/drivers-software/zen-zen-and-zen-2-cannot-support-sam-due-to-the-lack-of-full/td-p/427617)
