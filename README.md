@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[Python Spectral to RGB](https://gist.github.com/error454/65d7f392e1acd4a782fc)
+
 [Spectral to RGB](https://stackoverflow.com/questions/3407942/rgb-values-of-visible-spectrum)
 
 [Metallic Roughness Workflows](https://www.alexandre-pestana.com/physically-based-shading-metallic-specular-workflows/)
