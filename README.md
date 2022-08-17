@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[Vulkan Material System](http://kylehalladay.com/blog/tutorial/2017/11/27/Vulkan-Material-System.html)
+
 [Wavelength and Intensity](https://softsecrets.com/en-US/article/light-wavelengths-and-intensity)
 
 [Light frequency to RGB](https://stackoverflow.com/questions/1472514/convert-light-frequency-to-rgb)
