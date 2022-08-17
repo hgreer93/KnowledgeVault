@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[Wavelength and Intensity](https://softsecrets.com/en-US/article/light-wavelengths-and-intensity)
+
 [Light frequency to RGB](https://stackoverflow.com/questions/1472514/convert-light-frequency-to-rgb)
 
 [Python Spectral to RGB](https://gist.github.com/error454/65d7f392e1acd4a782fc)
