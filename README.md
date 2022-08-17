@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[Spectral to RGB](https://stackoverflow.com/questions/3407942/rgb-values-of-visible-spectrum)
+
 [Metallic Roughness Workflows](https://www.alexandre-pestana.com/physically-based-shading-metallic-specular-workflows/)
 
 [White paper on PBR](https://www.programmerall.com/article/7144653012/)
