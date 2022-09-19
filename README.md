@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[BVH Construction](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/)
+
 [Parallel Software Rasterization](https://www.gamedev.net/forums/topic/712963-parallelizing-a-software-rasterizer-algorithm-using-opencl/)
 
 [D3D12 Resource Barriers](https://devblogs.microsoft.com/directx/a-look-inside-d3d12-resource-state-barriers/)
