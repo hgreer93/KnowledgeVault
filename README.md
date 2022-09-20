@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[Practical Sky Model](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky/simulating-colors-of-the-sky)
+
 [BVH Construction](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/)
 
 [Parallel Software Rasterization](https://www.gamedev.net/forums/topic/712963-parallelizing-a-software-rasterizer-algorithm-using-opencl/)
