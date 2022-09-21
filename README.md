@@ -344,6 +344,8 @@ Book - Real Time Rendering pg 593
 
 ## General Programming
 
+[Fast 2D Box vs Box](https://gamedev.stackexchange.com/questions/586/what-is-the-fastest-way-to-work-out-2d-bounding-box-intersection)
+
 [SIMD Rectangles](https://imgeself.github.io/posts/2019-07-28-raytracer-7-simd-rectangles/)
 
 [SIMD for C++](https://news.ycombinator.com/item?id=26955221)
