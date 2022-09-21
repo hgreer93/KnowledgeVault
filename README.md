@@ -342,6 +342,8 @@ Book - Real Time Rendering pg 593
 
 ## General Programming
 
+[Check lots of bounding boxes](https://twitter.com/bmcnett/status/1483139946118483969)
+
 [SIMD Ref](https://www.cs.virginia.edu/~cr4bd/3330/F2018/simdref.html)
 
 [Game Engine Event Driven Communication](https://gamedev.stackexchange.com/questions/7718/event-driven-communication-in-a-game-engine-yes-or-no)
