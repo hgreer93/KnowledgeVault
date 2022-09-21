@@ -344,6 +344,8 @@ Book - Real Time Rendering pg 593
 
 ## General Programming
 
+[SIMD Rectangles](https://imgeself.github.io/posts/2019-07-28-raytracer-7-simd-rectangles/)
+
 [SIMD for C++](https://news.ycombinator.com/item?id=26955221)
 
 [Check lots of bounding boxes](https://twitter.com/bmcnett/status/1483139946118483969)
