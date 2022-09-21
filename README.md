@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[Material Graph Visibility Buffer](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
+
 [Practical Sky Model](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/simulating-sky/simulating-colors-of-the-sky)
 
 [BVH Construction](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/)
@@ -341,6 +343,8 @@ Book - Real Time Rendering pg 593
 [Texture Compression Kernels](https://github.com/elasota/ConvectionKernels)
 
 ## General Programming
+
+[SIMD for C++](https://news.ycombinator.com/item?id=26955221)
 
 [Check lots of bounding boxes](https://twitter.com/bmcnett/status/1483139946118483969)
 
