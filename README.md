@@ -342,6 +342,8 @@ Book - Real Time Rendering pg 593
 
 ## General Programming
 
+[SIMD Ref](https://www.cs.virginia.edu/~cr4bd/3330/F2018/simdref.html)
+
 [Game Engine Event Driven Communication](https://gamedev.stackexchange.com/questions/7718/event-driven-communication-in-a-game-engine-yes-or-no)
 
 [Stack Overflow - Game Object Communication](https://stackoverflow.com/questions/4574016/game-objects-talking-to-each-other/4580241#4580241)
