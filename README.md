@@ -170,6 +170,8 @@ http://publications.lib.chalmers.se/records/fulltext/220583/220583.pdf
 
 ## Math
 
+[Making a math library](http://www.codersnotes.com/notes/maths-lib-2016/)
+
 [Frustum Culling](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/frustum-culling-r4613/)
 
 [Sphere Projection](https://iquilezles.org/articles/sphereproj/)
