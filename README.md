@@ -352,6 +352,8 @@ Book - Real Time Rendering pg 593
 
 ## General Programming
 
+[Bit shifting, Getting Specific Bit](https://stackoverflow.com/questions/2249731/how-do-i-get-bit-by-bit-data-from-an-integer-value-in-c)
+
 [AVX Alignment](https://stackoverflow.com/questions/32612190/how-to-solve-the-32-byte-alignment-issue-for-avx-load-store-operations)
 
 [Fast 2D Box vs Box](https://gamedev.stackexchange.com/questions/586/what-is-the-fastest-way-to-work-out-2d-bounding-box-intersection)
