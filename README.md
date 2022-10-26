@@ -170,6 +170,8 @@ http://publications.lib.chalmers.se/records/fulltext/220583/220583.pdf
 
 ## Math
 
+[What is "Upright Space"](https://www.mauriciopoppe.com/notes/computer-graphics/transformation-matrices/coordinate-systems/#:~:text=camera%20space%3A%20object%20space%20associated%20with%20the%20viewport,coincident%20with%20the%20origin%20of%20the%20object%20space)
+
 [Making a math library](http://www.codersnotes.com/notes/maths-lib-2016/)
 
 [Frustum Culling](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/frustum-culling-r4613/)
