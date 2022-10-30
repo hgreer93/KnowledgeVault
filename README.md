@@ -354,6 +354,11 @@ Book - Real Time Rendering pg 593
 
 ## General Programming
 
+[Sync Barrier in terms of WaitOnAddress] (https://devblogs.microsoft.com/oldnewthing/20160824-00/?p=94155)
+
+[WaitOnAddress Critical Section] (https://devblogs.microsoft.com/oldnewthing/20160825-00/?p=94165)
+
+
 [Bit shifting, Getting Specific Bit](https://stackoverflow.com/questions/2249731/how-do-i-get-bit-by-bit-data-from-an-integer-value-in-c)
 
 [AVX Alignment](https://stackoverflow.com/questions/32612190/how-to-solve-the-32-byte-alignment-issue-for-avx-load-store-operations)
