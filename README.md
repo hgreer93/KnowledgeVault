@@ -358,6 +358,7 @@ Book - Real Time Rendering pg 593
 
 [WaitOnAddress Critical Section] (https://devblogs.microsoft.com/oldnewthing/20160825-00/?p=94165)
 
+[Writing Inline Assembly MSVC)(https://lallouslab.net/2016/01/11/introduction-to-writing-x64-assembly-in-visual-studio/)
 
 [Bit shifting, Getting Specific Bit](https://stackoverflow.com/questions/2249731/how-do-i-get-bit-by-bit-data-from-an-integer-value-in-c)
 
