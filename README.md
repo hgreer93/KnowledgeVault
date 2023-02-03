@@ -590,6 +590,8 @@ Book - Real Time Rendering pg 593
 
 [WM_SIZE Wrong Size](https://stackoverflow.com/questions/71539308/win32-wm-size-message-gives-wrong-dimensions)
 
+[How To Generate A Navmesh] (https://gamedev.stackexchange.com/questions/38721/how-can-i-generate-a-navigation-mesh-for-a-tile-grid)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
