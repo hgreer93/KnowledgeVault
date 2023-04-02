@@ -354,6 +354,8 @@ Book - Real Time Rendering pg 593
 
 ## General Programming
 
+[SSE to AVX512 Instruction List] (https://drachev.com/officedaytime/)
+
 [Sync Barrier in terms of WaitOnAddress] (https://devblogs.microsoft.com/oldnewthing/20160824-00/?p=94155)
 
 [WaitOnAddress Critical Section] (https://devblogs.microsoft.com/oldnewthing/20160825-00/?p=94165)
