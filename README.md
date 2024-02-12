@@ -498,6 +498,10 @@ Book - Real Time Rendering pg 593
 
 [Fast strlen](https://www.strchr.com/optimized_strlen_function?allcomments=1)
 
+[GCC to MSVC CTL](https://stackoverflow.com/questions/355967/how-to-use-msvc-intrinsics-to-get-the-equivalent-of-this-gcc-code)
+
+[Does X64 Imply BM1?](https://stackoverflow.com/questions/61422827/does-x64-support-imply-bmi1-support)
+
 ## AI
 
 [Voice Synth](https://github.com/DanRuta/xVA-Synth/)
