@@ -15,7 +15,7 @@
 
 ## Graphics Programming
 
-[Mesh Clusters] (https://computergraphics.stackexchange.com/questions/11060/what-are-mesh-clusters-hierarchical-cluster-culling-with-lod-triangle-c)
+[Mesh Clusters](https://computergraphics.stackexchange.com/questions/11060/what-are-mesh-clusters-hierarchical-cluster-culling-with-lod-triangle-c)
 
 [Material Graph Visibility Buffer](http://filmicworlds.com/blog/visibility-buffer-rendering-with-material-graphs/)
 
@@ -166,7 +166,10 @@
 [Sphere Triangle Intersection](https://realtimecollisiondetection.net/blog/?p=103)
 
 ## Virtual Geometry Textures
-http://publications.lib.chalmers.se/records/fulltext/220583/220583.pdf
+[Implications of combining Virtual Texturing with 
+geometry textures
+Master of Science Thesis 
+HENRIK SCHULZE NILSSON](http://publications.lib.chalmers.se/records/fulltext/220583/220583.pdf)
 
 [OpenGI (Open Geometry Image)](http://opengi.sourceforge.net/about.html)
 
@@ -356,13 +359,13 @@ Book - Real Time Rendering pg 593
 
 ## General Programming
 
-[SSE to AVX512 Instruction List] (https://drachev.com/officedaytime/)
+[SSE to AVX512 Instruction List](https://drachev.com/officedaytime/)
 
-[Sync Barrier in terms of WaitOnAddress] (https://devblogs.microsoft.com/oldnewthing/20160824-00/?p=94155)
+[Sync Barrier in terms of WaitOnAddress](https://devblogs.microsoft.com/oldnewthing/20160824-00/?p=94155)
 
-[WaitOnAddress Critical Section] (https://devblogs.microsoft.com/oldnewthing/20160825-00/?p=94165)
+[WaitOnAddress Critical Section](https://devblogs.microsoft.com/oldnewthing/20160825-00/?p=94165)
 
-[Writing Inline Assembly MSVC)(https://lallouslab.net/2016/01/11/introduction-to-writing-x64-assembly-in-visual-studio/)
+[Writing Inline Assembly MSVC](https://lallouslab.net/2016/01/11/introduction-to-writing-x64-assembly-in-visual-studio/)
 
 [Bit shifting, Getting Specific Bit](https://stackoverflow.com/questions/2249731/how-do-i-get-bit-by-bit-data-from-an-integer-value-in-c)
 
@@ -598,7 +601,7 @@ Book - Real Time Rendering pg 593
 
 [WM_SIZE Wrong Size](https://stackoverflow.com/questions/71539308/win32-wm-size-message-gives-wrong-dimensions)
 
-[How To Generate A Navmesh] (https://gamedev.stackexchange.com/questions/38721/how-can-i-generate-a-navigation-mesh-for-a-tile-grid)
+[How To Generate A Navmesh](https://gamedev.stackexchange.com/questions/38721/how-can-i-generate-a-navigation-mesh-for-a-tile-grid)
 
 ## Anti-Reverse Engineering 
 
