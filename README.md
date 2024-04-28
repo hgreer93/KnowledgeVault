@@ -359,6 +359,8 @@ Book - Real Time Rendering pg 593
 
 ## General Programming
 
+[Ordered Printf](https://zakuarbor.github.io/blog/printf-$/)
+
 [SSE to AVX512 Instruction List](https://drachev.com/officedaytime/)
 
 [Sync Barrier in terms of WaitOnAddress](https://devblogs.microsoft.com/oldnewthing/20160824-00/?p=94155)
