@@ -625,4 +625,4 @@ Book - Real Time Rendering pg 593
 
 ## Research Papers
 [Weta FX Loki](https://dl.acm.org/doi/10.1145/3528223.3530058)
-
+[Weta FX POTA Mocap](https://www.polygon.com/24152375/kingdom-planet-apes-visual-effects-weta-fx-mocap)
