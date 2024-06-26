@@ -622,3 +622,7 @@ Book - Real Time Rendering pg 593
 [CPU Core Latency](https://www.anandtech.com/show/16214/amd-zen-3-ryzen-deep-dive-review-5950x-5900x-5800x-and-5700x-tested/5)
 
 [Optimizing Memory Access/Cache](https://dzone.com/articles/optimizing-memory-access-with-cpu-cache)
+
+## Research Papers
+[Weta FX Loki](https://dl.acm.org/doi/10.1145/3528223.3530058)
+
