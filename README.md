@@ -609,6 +609,10 @@ Book - Real Time Rendering pg 593
 
 [How To Generate A Navmesh](https://gamedev.stackexchange.com/questions/38721/how-can-i-generate-a-navigation-mesh-for-a-tile-grid)
 
+## Operating System Stuff
+
+[Using Visual Studio For OS Dev](https://www.reddit.com/r/osdev/comments/k9ojgz/os_dev_using_visual_studio_2019_on_windows_10/)
+
 ## Anti-Reverse Engineering 
 
 [Checking for Debug Registers](https://ling.re/hardware-breakpoints/)
