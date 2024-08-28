@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[GPU BVH](https://jacco.ompf2.com/2022/06/03/how-to-build-a-bvh-part-9a-to-the-gpu/)
+
 [Making A Software Rasterizer](https://trenki2.github.io/blog/2017/06/06/developing-a-software-renderer-part1/)
 
 [Moana Raytracer](https://schuttejoe.github.io/post/disneypostmortem/)
