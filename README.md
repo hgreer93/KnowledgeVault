@@ -15,6 +15,8 @@
 
 ## Graphics Programming
 
+[Making A Software Rasterizer](https://trenki2.github.io/blog/2017/06/06/developing-a-software-renderer-part1/)
+
 [Moana Raytracer](https://schuttejoe.github.io/post/disneypostmortem/)
 
 [Mesh Clusters](https://computergraphics.stackexchange.com/questions/11060/what-are-mesh-clusters-hierarchical-cluster-culling-with-lod-triangle-c)
