@@ -183,6 +183,8 @@ HENRIK SCHULZE NILSSON](http://publications.lib.chalmers.se/records/fulltext/220
 
 ## Math
 
+[Fast 2D Box Intersection Tests](https://gamedev.stackexchange.com/a/167846)
+
 [What is "Upright Space"](https://www.mauriciopoppe.com/notes/computer-graphics/transformation-matrices/coordinate-systems/#:~:text=camera%20space%3A%20object%20space%20associated%20with%20the%20viewport,coincident%20with%20the%20origin%20of%20the%20object%20space)
 
 [Making a math library](http://www.codersnotes.com/notes/maths-lib-2016/)
