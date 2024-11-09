@@ -1,9 +1,3 @@
-# PersonalResearch
-
-[Ancronym Generator](https://acronymgenerator.com/)
-
-[Write A Good Readme](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-
 ## Animation Programming
 [Inverse Kinematics](https://zalo.github.io/blog/inverse-kinematics/)
 
@@ -641,4 +635,12 @@ Book - Real Time Rendering pg 593
 
 ## Research Papers
 [Weta FX Loki](https://dl.acm.org/doi/10.1145/3528223.3530058)
+
 [Weta FX POTA Mocap](https://www.polygon.com/24152375/kingdom-planet-apes-visual-effects-weta-fx-mocap)
+
+# Misc
+
+[Ancronym Generator](https://acronymgenerator.com/)
+
+[Write A Good Readme](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+
